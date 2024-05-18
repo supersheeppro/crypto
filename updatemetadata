@@ -1,7 +1,7 @@
 {
   "name": "QubitX", 
   "symbol": "QBTX",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/supersheeppro/crypto/main/metadata.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
